@@ -18,3 +18,6 @@ A produção avícola exige monitoramento constante das condições ambientais p
 
 **Origem e Motivação:**
 A origem do problema está na necessidade de manter ambientes controlados para otimizar a produção avícola e garantir o bem-estar das aves. A motivação é desenvolver um software que utilize sensores IoT para monitoramento em tempo real, alertando sobre desvios críticos e gerando relatórios detalhados para análise de dados.
+
+### Desafio Escolhido:
+O desafio escolhido foi o Software Educativo para idosos 
