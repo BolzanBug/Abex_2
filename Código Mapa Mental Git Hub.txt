@@ -1,0 +1,74 @@
+@startmindmap
+- Desafio Proposto: Software Educativo para Idosos
+-- Justificativa
+--- Inclusão digital melhora qualidade de vida, independência e reduz exclusão social.
+-- Origem e Motivação
+--- Necessidade crescente com o envelhecimento populacional.
+--- Objetivo: Proporcionar acesso fácil à tecnologia.
+-- Mapa de Stakeholders
+--- Clientes/Usuários
+---- Instituições de idosos, lares de idosos, idosos.
+--- Ambiente Interno
+---- Familiares, conhecidos, cuidadores.
+--- Ambiente Externo
+---- Atendentes, servidores públicos, familiares.
+--- Macroambiente
+---- Governo, SUS, bancos, cibersegurança nacional.
+-- Mapa de Observações
+--- Necessidades
+---- Orientação, atenção, passo a passo.
+--- Restrições
+---- Capacidade cognitiva/motora, visão, audição.
+--- Dificuldades
+---- Aprender, lembrar, autonomia.
+--- Padrões
+---- Raciocínio lento, vontade de aprender.
+--- Adaptações
+---- Muita orientação, contato próximo.
+--- Problemas
+---- Memória, visão, conhecimento limitado.
+--- Relacionamentos
+---- Familiares, cuidadores, centros de cuidado.
+** Mapa da Empatia
+*** Sentimentos
+**** Ansiedade, frustração, alegria ao aprender.
+*** Expectativas
+**** Simplicidade, comunicação, entretenimento.
+*** Medos
+**** Falha, fraudes, exclusão digital.
+*** Tomadas de Decisão
+**** Conexão social, ajuda de familiares, abandono por frustração.
+*** Aspirações
+**** Independência, comunicação, qualidade de vida.
+*** Pensamentos
+**** Tecnologia útil, mas difícil; inclusão reduz isolamento.
+*** Aspectos Culturais
+**** Interação social, cultura analógica, prática repetida.
+** Matriz CSD
+*** Certezas
+**** Dificuldade de navegação, interfaces complexas.
+*** Suposições
+**** Preferência por instruções visuais, redução do isolamento.
+*** Dúvidas
+**** Engajamento sustentável, adaptação a diferentes perfis.
+** Ideias e Produtos
+*** App de Integração Social e Financeira
+**** Facilita conexão familiar, gestão financeira, notícias.
+*** Assistente Virtual para Tarefas e Lembretes
+**** Organização, suporte diário, lembretes.
+*** Rede de Conteúdo e Comunidade
+**** Socialização, compartilhamento, consumo cultural.
+** Fatores e Insights
+*** Sociais
+**** Isolamento, apoio familiar, experiência limitada.
+*** Geográficos
+**** Acessibilidade rural, diferenças regionais.
+*** Políticos
+**** Políticas de inclusão digital, regulamentação de privacidade.
+*** Econômicos
+**** Renda limitada, custo de equipamentos.
+*** Tecnológicos
+**** Interfaces simples, dispositivos compatíveis, segurança.
+*** Legais
+**** Regulamentação de acessibilidade, privacidade.
+@endmindmap
